@@ -15,6 +15,7 @@ The following showcases my skills in data science, machine learning, natural lan
 - **Version Control & Collaboration:** GitHub for code management.
 
 ![Connect with me on LinkedIn](www.linkedin.com/in/dalreen-soares)
+View the presentation here: ![https://www.canva.com/design/DAGOhpQS99g/TQJPOAtR3ntDEb-QaR4kxQ/edit]
 
 ---
 

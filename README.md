@@ -14,8 +14,8 @@ The following showcases my skills in data science, machine learning, natural lan
 - **Developers Tools:** PowerBI for visualizations and data analysis.
 - **Version Control & Collaboration:** GitHub for code management.
 
-![Connect with me on LinkedIn](www.linkedin.com/in/dalreen-soares)
-View the presentation here: [https://www.canva.com/design/DAGOhpQS99g/0uoJojh9JP5D5mgMHNAMIQ/view?utm_content=DAGOhpQS99g&utm_campaign=designshare&utm_medium=link&utm_source=editor]
+![Connect with me on LinkedIn][www.linkedin.com/in/dalreen-soares]
+View the presentation here: [https://rb.gy/xlc8fr]
 
 ---
 

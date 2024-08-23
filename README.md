@@ -14,7 +14,9 @@ The following showcases my skills in data science, machine learning, natural lan
 - **Developers Tools:** PowerBI for visualizations and data analysis.
 - **Version Control & Collaboration:** GitHub for code management.
 
-![Connect with me on LinkedIn](www.linkedin.com/in/dalreen-soares)
+For confidentiality reasons, some files have been deleted. If this application does not work, you can contact me via the link below. 
+![Connect with me on LinkedIn][www.linkedin.com/in/dalreen-soares]
+View the presentation here: [https://rb.gy/xlc8fr]
 
 ---
 
@@ -139,3 +141,7 @@ The project successfully processes both incident reports and audio data to provi
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
+
+## License 
+This project, including the code, models, and data processing pipeline, represents a unique approach developed by me. As such, I hold the copyright and all intellectual property rights to this work.
+# Copyright (c) [2024] [Dalreen Soares]

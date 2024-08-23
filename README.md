@@ -141,3 +141,6 @@ The project successfully processes both incident reports and audio data to provi
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request for any enhancements or bug fixes.
+
+## License 
+This project, including the code, models, and data processing pipeline, represents a unique approach developed by me. As such, I hold the copyright and all intellectual property rights to this work.

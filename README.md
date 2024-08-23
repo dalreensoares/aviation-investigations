@@ -6,7 +6,7 @@ The following showcases my skills in data science, machine learning, natural lan
 ## Skills & Tools Used
 - **Natural Language Processing (NLP):** OpenAI Whisper model for audio transcription, `microsoft/Phi-3-mini-4k-instruct` for text and audio analysis.
 - **Model Training & Evaluation:** Fine-tuned to handle aviation-specific terminology and context. Ability to read, interpret text and audio, and assign severity level.
-- **Promoting and Fine-tuning:** The model is prompted and fine-tuned using the synthesized data CSV file, incorporating the conclusions of the investigation.
+- **Prompting and Fine-tuning:** The model is prompted and fine-tuned using the synthesized data CSV file, incorporating the conclusions of the investigation.
 - **Machine Learning:** Automated severity classification of aviation incidents.
 - **Data Preprocessing:** Text and audio data preprocessing, feature engineering.
 - **Web Deployment:** Streamlit for deploying the model as a web application.

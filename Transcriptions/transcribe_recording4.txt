@@ -1,0 +1,51 @@
+[00:00.000 --> 00:05.000]  Number 550, we're actually flying 175 Runway 20, cleared for takeoff.
+[00:20.000 --> 00:25.000]  Good morning Tower, Delta 2287, RNAV, Runway 9.
+[00:25.000 --> 00:30.000]  Delta 2287, Limber Tower, Runway Niner, cleared to land, winds 160 at 6.
+[00:30.000 --> 00:35.000]  And use caution, we did get a bird advisory just about 20 minutes ago at the approach end.
+[00:35.000 --> 00:40.000]  I'm sorry, say that at the last part, you were just on Delta 2287, cleared to land, Runway 9.
+[00:40.000 --> 00:46.000]  Cleared to land, Runway Niner, and birds observed just near the approach end, block of blackbirds.
+[00:46.000 --> 00:49.000]  Okay, thank you for the report, Delta 2287.
+[00:49.000 --> 00:56.000]  Bloomberg Ground, Japan Air 65 Heavy, Sport 2, information Delta.
+[00:56.000 --> 01:02.000]  N65 Heavy, Bloomberg Ground, you can proceed on to Bravo, whole short of the runway at Bravo 9, you can expect back to action.
+[01:02.000 --> 01:06.000]  Bravo, whole short of the Bravo 9, Japan Air 65.
+[01:06.000 --> 01:12.000]  N65 Heavy, actually just proceed on to Bravo and whole short of Bravo 8.
+[01:12.000 --> 01:17.000]  Proceed Bravo, whole short of Bravo 8, Japan Air 65 Heavy.
+[01:19.000 --> 01:24.000]  Japan Air 65 Heavy, hold position.
+[01:24.000 --> 01:27.000]  Japan Air 65 Heavy, hold position, hold position.
+[01:27.000 --> 01:29.000]  Hold position, Japan Air 65.
+[01:29.000 --> 01:32.000]  Japan Air 65 Heavy, hold position.
+[01:32.000 --> 01:34.000]  Hold position.
+[01:34.000 --> 01:40.000]  Delta 2287, go around, flight heading 090, climb and maintain 5000.
+[01:40.000 --> 01:47.000]  090 and 5000, Delta 2287.
+[01:47.000 --> 01:54.000]  Japan Air 65 Heavy, you are not authorized on the runway, looks like it's a little too late, you are authorized on to taxi, Bravo, do you understand the instructions?
+[01:54.000 --> 01:59.000]  Yes, I'm sorry, Japan Air 65.
+[01:59.000 --> 02:06.000]  Japan Air 65 Heavy, just go ahead and continue taxiing on your runway, back taxi, Runway Niner, and exit at Bravo 7.
+[02:06.000 --> 02:12.000]  Taxi on runway at Bravo 7, Japan Air 65, thank you.
+[02:12.000 --> 02:17.000]  Japan Air 65, just go ahead and back taxi on the runway, back taxi, exit at Bravo 7.
+[02:17.000 --> 02:22.000]  Back taxi on the runway on the runway at to the Bravo 7, Japan Air 65.
+[02:22.000 --> 02:28.000]  Delta 2287, contact departure at 124.35.
+[02:28.000 --> 02:32.000]  2435, so long, Delta 2287.
+[02:32.000 --> 02:47.000]  Japan Air 65, have the amendment to instructions, do you see the southwest on Bravo, go ahead and exit the runway behind the southwest at Bravo 8, exit the runway at Bravo 8, beyond southwest.
+[02:47.000 --> 02:52.000]  Beyond southwest, taxi to Bravo 8, Japan Air 65.
+[02:52.000 --> 03:01.000]  Japan Air 65, have the affirmative, exit the runway at Bravo 8, taxi eastbound on Bravo, exit the runway.
+[03:01.000 --> 03:11.000]  Roger, respond to Bravo or Japan Air 65.
+[03:11.000 --> 03:17.000]  Japan Air 65 Heavy, we enable hold short of Bravo 6, hold short of Bravo 6 for Japan Air 65 Heavy.
+[03:17.000 --> 03:29.000]  Hold short of Bravo 6, Japan Air 65 Heavy.
+[03:29.000 --> 03:35.000]  Japan Air 65 Heavy, cross runway 9 at Bravo 6 and taxi via Charlie Fullman.
+[03:35.000 --> 03:41.000]  Bravo 6 to Charlie 6, cross runway 9, Japan Air 65.
+[03:41.000 --> 03:49.000]  Japan Air 65 Heavy, just for my record, was there some confusion earlier with that instruction?
+[03:49.000 --> 03:58.000]  Japan Air 65, cross runway at Bravo 6 and Charlie, hold short 34.
+[03:58.000 --> 04:06.000]  Japan Air 65 Heavy, that's affirmative, cross runway at Bravo 6, I'm asking about earlier when you proceeded on the runway, was there some confusion about that back taxi?
+[04:06.000 --> 04:16.000]  Roger, thank you, sorry sir.
+[04:16.000 --> 04:22.000]  Japan Air 65 Heavy, you can taxi Fullman, hold short of runway 27 at Charlie 1.
+[04:22.000 --> 04:35.000]  Attention taxi, who runs runway 27, hold point Charlie 1, Japan Air 65.
+[04:35.000 --> 04:37.000]  Japan Air 65 Heavy, Lumberjack.
+[04:37.000 --> 04:39.000]  Go ahead, Japan Air 65.
+[04:39.000 --> 04:45.000]  Japan Air 65 Heavy, your instructions, turn left hotel, right turn on Juliet and you can hold position on taxi via Juliet.
+[04:45.000 --> 04:51.000]  Right hotel, then right turn on Juliet, hold on Juliet, Japan Air 65.
+[04:51.000 --> 04:56.000]  Japan Air 65 A, subcommittee on Juliet, monitor tower 118.3.
+[04:56.000 --> 05:10.000]  On Juliet, monitor tower 113, Japan Air 65.
+[05:10.000 --> 05:13.000]  Japan Air 65 Heavy, Lumberjack, where are you at?
+[05:13.000 --> 05:15.000]  Go ahead.
+[05:15.000 --> 05:25.000]  Japan Air 65 Heavy, possible pilot deviation when able, going to contact our tower, Lumberjack tower, let me know when you're ready for the phone number.
+[05:25.000 --> 05:28.000]  Japan Air 65.

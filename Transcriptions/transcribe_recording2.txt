@@ -1,0 +1,40 @@
+[00:00.000 --> 00:04.640]  N550, we're actually flying 175 runway 20, cleared for take-off
+[00:07.520 --> 00:11.680]  BKX, fly AMF1943, 2,400 feet, I'll do 0R, 8
+[00:12.560 --> 00:16.480]  N343, BKX, traffic will be in position 15, runway 8, cleared to land
+[00:17.120 --> 00:19.680]  BKX, cleared to land, fly AMF1943
+[00:22.880 --> 00:27.440]  Southwest 4253, BKX, traffic 4 mile final runway 8, runway 15, line up from 8
+[00:28.320 --> 00:33.920]  105, live light, contact South California
+[00:34.400 --> 00:36.000]  South California, 8-side, 403, thanks
+[00:36.560 --> 00:38.880]  TV5, do you have the Metroliner in sight?
+[00:40.880 --> 00:42.880]  5 negative
+[00:44.560 --> 00:46.560]  I'm sorry, TV5, traffic in sight
+[00:46.560 --> 00:52.320]  TV5, roger, pass behind that traffic, traffic 4 miles and trail of them is an Embraer, expedited cross final
+[00:52.800 --> 00:54.080]  TV5, we'll go
+[00:55.040 --> 00:57.520]  X-TRAX 111 to runway 8
+[00:57.520 --> 01:08.960]  X-TRAX 111, BKX, traffic will be in position runway 15, departing prior to your arrival, traffic 1 o'clock and a mile, a correction, 4 miles northbound, TV helicopter 1600 is going to expedite through the centerline, runway 8, cleared to land
+[01:08.960 --> 01:10.960]  8, cleared to land, X-TRAX 111
+[01:20.160 --> 01:23.200]  template AMF1943, turn right at Charlie 6, Charlie to park
+[01:24.080 --> 01:26.080]  Charlie 6, Charlie to park, fly 94
+[01:28.080 --> 01:33.360]  Southwest 4253, traffic 2.5 mile final runway, doing 130 knots, an Embraer jet, runway 15, cleared for take off
+[01:35.360 --> 01:39.360]  Cleared for take off 15, cleared for take off west, pressure 42.50
+[01:40.800 --> 01:43.440]  I call outside AMF1943, can I exceed Charlie?
+[01:44.000 --> 01:49.120]  Negative, hold, hold, airplane AMF1943, hold, hold, hold, hold, hold, airplane AMF1943, hold
+[01:49.760 --> 01:51.760]  Southwest 4253, take off clearance
+[01:52.720 --> 01:54.720]  Anthony, conference, welcome aboard, you're cleared
+[01:55.280 --> 01:57.280]  Hello, Ham, hey, I'm recording you
+[01:57.840 --> 02:05.840]  Flight AMF1943, turn right on 15, right on Charlie, and have a tower number for you to call
+[02:06.720 --> 02:08.720]  I'll let you send that to me
+[02:09.120 --> 02:13.520]  Ham flight, a correction, Southwest 4253, do you need a cool down?
+[02:15.120 --> 02:21.120]  We don't know yet, not like me, but we are going to have to actually clear a round checklist
+[02:21.120 --> 02:27.600]  Southwest 4253, roger, turn left at alpha 1 and then rejoin the holding area, we're going to get you a new flow window
+[02:27.600 --> 02:30.960]  Sorry about that, he read it back and was observing, looks like he was turning
+[02:31.520 --> 02:34.000]  Yeah, no problem, all right, let's turn alpha 1, thank you
+[02:34.880 --> 02:42.640]  Ham flight, AMF1943, contact ground, expect a possible pilot deviation, ground will give you the phone number
+[02:43.200 --> 02:45.200]  Roger, contact ground, turn left
+[02:46.160 --> 02:48.160]  Tower, Southwest 4253, you're read it back
+[02:49.280 --> 02:53.280]  Southwest 4253, turn left at alpha 1 and then into the holding area
+[02:53.280 --> 02:56.240]  Turn left at alpha 1 and then into the holding area, Southwest 4253
+[02:56.640 --> 02:58.640]  I'm sorry about that, guys
+[02:58.640 --> 03:00.640]  That's all right
+[03:00.640 --> 03:05.840]  Southwest 4253, you're going to work on a new window, we're going to try to get you out of here as soon as you're ready, just let me know when you are ready
+[03:06.960 --> 03:08.960]  Southwest 4253

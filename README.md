@@ -1,4 +1,4 @@
-# Aviation Incident Analysis with OpenAI's Whisper and LLama ✈️
+# Aviation Incident Analysis with OpenAI's Whisper ✈️
 
 
 The following showcases my skills in data science, machine learning, natural language processing (NLP), and web deployment. Below is a summary of the skills and tools used:

@@ -144,3 +144,4 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## License 
 This project, including the code, models, and data processing pipeline, represents a unique approach developed by me. As such, I hold the copyright and all intellectual property rights to this work.
+# Copyright (c) [2024] [Dalreen Soares]
